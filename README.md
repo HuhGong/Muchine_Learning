@@ -1,6 +1,6 @@
 # Muchine_Learning
 
-김정훈 강사님이 문제를 주고
+김정훈 강사(포인터와 함께하는 C의 아름다움)님이 문제를 주고
 일정 시간동안 문제를 풀어보고 해결방식을 공유하는 방식으로 코드를 작성
 
 RL(Reinforcement Learning)
